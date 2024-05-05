@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYbTu01v2dRioIejuXRjN5fhsD52COQEFcTtbyTU3cNxv9EFYMqWEDSeCf3QsXDhBhMkZAgvfnpwQWhLRc0gLg==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\blackflum\\blackflum\\blackflum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\home\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
